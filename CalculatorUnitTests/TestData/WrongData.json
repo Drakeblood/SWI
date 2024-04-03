@@ -1,0 +1,16 @@
+{
+    "obj1": {
+      "operator": "sub",
+      "value1": 2d,
+      "value2": "3ff"
+    },
+    "obj2": {
+      "operator": "sqrt",
+      "value1": "ff"
+    },
+    "obj3": {
+      "operator": "sqrtwww",
+      "value1": 16,
+      "value2": 16
+    }
+  } 

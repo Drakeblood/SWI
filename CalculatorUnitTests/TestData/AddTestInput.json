@@ -1,0 +1,21 @@
+{
+    "obj1": {
+      "operator": "add",
+      "value1": 14,
+      "value2": 55.5
+    },
+    "obj2": {
+      "operator": "add",
+      "value1": 15,
+	  "value2": "33.4"
+    },
+    "obj3": {
+      "operator": "add",
+      "value1": 16,
+      "value2": 16
+    },
+	"obj4": {
+      "operator": "add",
+      "value1": 44
+    }
+  } 

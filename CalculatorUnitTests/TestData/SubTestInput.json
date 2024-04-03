@@ -1,0 +1,22 @@
+{
+    "obj1": {
+      "operator": "sub",
+      "value1": 14.5,
+      "value2": 55.5
+    },
+    "obj2": {
+      "operator": "sub",
+      "value1": 111235,
+	  "value2": "323.4"
+    },
+    "obj3": {
+      "operator": "sub",
+      "value1": 16,
+      "value2": 16
+    },
+	"obj4": {
+      "operator": "sub",
+      "value1": -44,
+      "value2": 2
+    }
+  } 

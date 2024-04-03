@@ -1,0 +1,22 @@
+{
+    "obj1": {
+      "operator": "mul",
+      "value1": 15,
+      "value2": 1.5
+    },
+    "obj2": {
+      "operator": "mul",
+      "value1": 15,
+	  "value2": "2.4"
+    },
+    "obj3": {
+      "operator": "mul",
+      "value1": 16,
+      "value2": 16
+    },
+	"obj4": {
+      "operator": "mul",
+      "value1": 44,
+      "value2": 2
+    }
+  } 
